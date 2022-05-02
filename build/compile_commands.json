@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gfbaratto/c/hello/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-11 -g -o CMakeFiles/hello.dir/main.c.o -c /home/gfbaratto/c/hello/main.c",
+  "file": "/home/gfbaratto/c/hello/main.c"
+}
+]
